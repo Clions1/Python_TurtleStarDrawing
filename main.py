@@ -1,0 +1,30 @@
+import turtle
+
+drawing_board = turtle.Screen()
+drawing_board.bgcolor("light blue")
+drawing_board.title("Python Turtle")
+
+turtle1=turtle.Turtle()
+
+turtle1.left(70)
+turtle1.forward(100)
+turtle1.right(150)
+turtle1.forward(95)
+turtle1.left(80)
+turtle1.forward(70)
+turtle1.right(130)
+turtle1.forward(80)
+turtle1.left(70)
+turtle1.forward(70)
+turtle1.right(150)
+turtle1.forward(80)
+turtle1.left(70)
+turtle1.forward(70)
+turtle1.right(150)
+turtle1.forward(70)
+turtle1.left(75)
+turtle1.forward(90)
+turtle1.right(138)
+turtle1.forward(70)
+turtle.done()
+
